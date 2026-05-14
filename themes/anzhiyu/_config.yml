@@ -490,7 +490,7 @@ footer:
       # - title: 服务
       #   links:
       #     - title: 51la统计
-      #       link: https://blog.httple.net/
+      #       link: https://yuuidicn.github.io/
       #     - title: 十年之约
       #       link: https://www.foreverblog.cn/
       #     - title: 开往
@@ -1249,6 +1249,8 @@ inject:
   head:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    # 代码块美化样式
+    - <link rel="stylesheet" href="/css/code-block-styles.css">
 
   bottom:
     # 自定义js
