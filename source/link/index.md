@@ -129,54 +129,54 @@ a(href='https://blog.httple.net/' rel="external nofollow") 资源宝-あ布鸢�
 
 ```yml
 - name: 大锤
-  link: https://dddachui.top
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2022/09/04/6314070f8005a.webp!linkavatar
   descr: 运维本是逆天而行,死在路上也很正常
   siteshot: https://img02.anheyu.com/adminuploads/1/2022/09/04/6314070f5b281.webp
 
 - name: 月落星河Tsukistar # 无友链
-  link: https://www.tsukistar.fun
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/thumbnails/b06fa23157e29c67dbca5766151621b4.png
   descr: 浩瀚中的伟大，孤独间的渺小
   siteshot: https://img02.anheyu.com/adminuploads/1/2022/09/02/6311fd47c9ea6.webp
 
 - name: 仰止 # 无友链
-  link: https://www.yangzhiblog.com
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/thumbnails/8d1ad930ec52750239ea6b7d0a3a44f5.png
   descr: 高山仰止，景行行止
   siteshot: https://img02.anheyu.com/thumbnails/85e4d93f855e048c75c8cb07b74236bb.png
 
 - name: SuYi|宿仪 #无友链
-  link: https://www.thotz.top
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2022/09/20/63294be323a1a.png
   descr: 随心写作，随缘阅读！
   siteshot: https://img02.anheyu.com/adminuploads/1/2022/09/20/63294be7b5c20.jpg
 
 - name: Xlenco #无友链
-  link: https://xlenco.eu.org
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2022/10/04/633b93d930cd9.jpg
   descr: 最好的地方,是没去过的地方。最好的时光，是回不来的时光。
   siteshot: https://img02.anheyu.com/adminuploads/1/2022/10/04/633b93d35e56b.jpg
 
 - name: 呆鱼 #无友链
-  link: https://daiyu-233.top
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2022/10/16/634b6ba10c77f.png
   descr: 命运之所以称为命运，正是因为它无可改变。
   siteshot: https://img02.anheyu.com/adminuploads/1/2022/10/16/634b6ba10c3a2.png
 
 - name: 晨讯 #无友链
-  link: https://zsuh.cc
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2022/10/12/6346b92ed36c7.png
   descr: 专注于编程技术分享，记录生活琐事
   siteshot: https://img02.anheyu.com/adminuploads/1/2022/10/12/6346b92edf3e5.jpg
 
 - name: 鲸落 #无友链
-  link: https://www.blogog.top/
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2023/03/26/641ff70c9392c.webp
   descr: "There is only one heroism in the world: to see the world as it is and to love it."
 
 - name: 凌冬 #无友链
-  link: https://lyr-2000.github.io
+  link: https://blog.httple.net
   avatar: https://img02.anheyu.com/adminuploads/1/2022/09/02/6311fd474e3dd.png!linkavatar
   descr: 过去不优秀，不代表未来不精彩
   siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/anheyu.com/https://lyr-2000.github.io
