@@ -54,6 +54,10 @@ jobs:
       run: |
         npm run build
 
+    - name: Create CNAME
+      run: |
+        echo 'blog.httple.net' > public/CNAME
+
     - name: 部署
       run: |
         cd ./public
