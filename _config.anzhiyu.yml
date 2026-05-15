@@ -412,9 +412,9 @@ footer:
   runtime:
     enable: true
     launch_time: 11/15/2023 00:00:00 # 网站上线时间
-    work_img: https://img.shields.io/badge/%E6%B8%B8%E6%88%8F%E5%AE%9D-%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E4%B8%AD-blue?style=flat&amp;labelColor
+    work_img: https://img.shields.io/badge/%E8%B5%84%E6%BA%90%E5%AE%9D-%E4%B8%8A%E7%8F%AD%E6%91%B8%E9%B1%BC%E4%B8%AD-blue?style=flat&amp;labelColor
     work_description: 距离月入25k也就还差一个大佬带我~
-    offduty_img: https://img.shields.io/badge/%E6%B8%B8%E6%88%8F-%E4%B8%8B%E7%8F%AD%E5%95%A6-blue?style=flat&amp;labelColor
+    offduty_img: https://img.shields.io/badge/%E8%B5%84%E6%BA%90%E5%AE%9D-%E4%B8%8B%E7%8F%AD%E5%95%A6-blue?style=flat&amp;labelColor
     offduty_description: 下班了就该开开心心的玩耍，嘿嘿~
   # 徽标部分配置项 https://shields.io/
   # https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr
@@ -427,9 +427,6 @@ footer:
       - link: https://blog.httple.net/
         shields: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg
         message: 本站使用AnZhiYu主题
-      - link: https://blog.httple.net/
-        shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
-        message: 本站使用多吉云为静态资源提供CDN加速
       - link: https://github.com/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg
         message: 本站项目由Github托管
@@ -510,8 +507,8 @@ footer:
     linkList:
       - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
         text: 主题
-      # - link: https://image.anheyu.com
-      #   text: 图床
+      # - link: https://blog.httple.net
+      #   text: 网站
       - link: https://blog.httple.net/
         text: 资源宝
     subTitle:
