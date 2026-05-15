@@ -1032,20 +1032,20 @@ home_top:
   timemode: date #date/updated
   title: 生活明朗
   subTitle: 万物可爱。
-  siteText: anheyu.com
+  siteText: blog.httple.net
   category:
-    - name: 技术分享
-      path: /tags/技术/
+    - name: 最新文章
+      path: /archives/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 必看文章
-      path: /tags/必看/
+    - name: 文章分类
+      path: /categories/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 狂神说
-      path: /tags/狂神/
+    - name: 文章标签
+      path: /tags/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
@@ -1055,10 +1055,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 问答反馈中心
-    title: 问答反馈中心
+    tips: 朋友圈
+    title: 朋友圈
     image: https://img01.anheyu.com/useruploads/198/2023/11/16/65562e2be0f18.png
-    link: http://80.251.210.69:40065
+    link: /fcircle/
 
 # 朋友圈配置
 # fcircle
@@ -1067,8 +1067,8 @@ home_top:
 # see https://blog.anheyu.com/posts/3753.html
 friends_vue:
   enable: true
-  vue_js: https://hexopy.guyinga.top/index.f9a2b8d2.js
-  apiurl: https://hexopl.guyinga.top/ # 朋友圈后端地址
+  vue_js: https://blog.httple.net/index.f9a2b8d2.js
+  apiurl: https://blog.httple.net/ # 朋友圈后端地址
   top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
 
     
