@@ -1,0 +1,66 @@
+// Colorful framed tag styles
+#tag-page-tags
+  a
+    display inline-block
+    margin 6px 10px
+    padding 8px 14px
+    border-radius 14px
+    text-decoration none
+    color #fff
+    font-weight 600
+    font-size 14px
+    line-height 1
+    border 2px solid rgba(#000, 0.08)
+    box-shadow 0 6px 18px rgba(#000, 0.08)
+    transition all .18s ease
+    vertical-align middle
+
+    .tags-punctuation
+      margin-right 6px
+      opacity 0.95
+      font-weight 700
+      display inline-block
+
+    .tagsPageCount
+      margin-left 8px
+      font-size 12px
+      opacity 0.95
+      background rgba(#fff, 0.12)
+      padding 2px 6px
+      border-radius 10px
+
+    &:hover
+      transform translateY(-3px)
+      box-shadow 0 12px 30px rgba(#000, 0.12)
+
+  // Palette variations — cycles through colors using nth-child
+  a:nth-child(6n+1)
+    background linear-gradient(135deg, #ff7eb3, #ff758c)
+    border-color rgba(255,121,140,0.3)
+
+  a:nth-child(6n+2)
+    background linear-gradient(135deg, #7afcff, #4facfe)
+    border-color rgba(79,172,254,0.28)
+
+  a:nth-child(6n+3)
+    background linear-gradient(135deg, #ffd89b, #19547b)
+    border-color rgba(25,84,123,0.18)
+
+  a:nth-child(6n+4)
+    background linear-gradient(135deg, #c6ffdd, #fbd786)
+    color #222
+    border-color rgba(243,219,134,0.25)
+
+  a:nth-child(6n+5)
+    background linear-gradient(135deg, #f6d365, #fda085)
+    border-color rgba(253,160,133,0.22)
+
+  a:nth-child(6n+6)
+    background linear-gradient(135deg, #a18cd1, #fbc2eb)
+    border-color rgba(171,128,199,0.22)
+
+  // Responsive: wrap nicely on small screens
+  @media (max-width: 480px)
+    a
+      padding 6px 10px
+      font-size 13px
