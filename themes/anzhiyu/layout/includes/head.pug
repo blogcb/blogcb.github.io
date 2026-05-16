@@ -59,6 +59,8 @@ if (theme.icons && theme.icons.fontawesome_animation_css)
 
 //- main css
 link(rel='stylesheet', href=url_for(theme.asset.main_css))
+//- Custom tag pills CSS (from WP-Hexo-Sync)
+link(rel='stylesheet', href=url_for('/css/_custom.css'))
 if (theme.icons && theme.icons.fontawesome)
   link(rel='stylesheet', href=url_for(theme.asset.fontawesome) media="print" onload="this.media='all'")
 

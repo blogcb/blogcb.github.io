@@ -99,6 +99,8 @@ div
   script(async data-pjax src=url_for(theme.asset.waterfall))
   //- 文章二维码
   script(src='https://cdn.cbd.int/qrcodejs@1.0.0/qrcode.min.js')
+    //- WP-Hexo-Sync: tag pills script
+    script(src=url_for('/js/tag-pills.js'))
   //- 右键菜单
   if (theme.rightClickMenu && theme.rightClickMenu.enable)
     script(src=url_for(theme.asset.right_click_menu_js))
